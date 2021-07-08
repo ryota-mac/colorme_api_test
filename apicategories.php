@@ -3,7 +3,7 @@
 $request_options = array(
   'http' => array(
   'method' => 'GET',
-  'header'=> "Authorization: Bearer ff7c37dfca55a9604e18b90841172a07e8af363463132a67d7e232e1193e30d7 \r\n"
+  'header'=> "Authorization: Bearer  \r\n"
   )
 );
 
