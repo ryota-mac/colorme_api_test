@@ -1,0 +1,2 @@
+# colorme_api_test
+カラーミーショップAPIをphpで操作する練習用リポジトリ
